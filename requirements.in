@@ -1,0 +1,7 @@
+click
+pip-tools
+pytest
+sqlalchemy
+psycopg2
+celery
+redis
