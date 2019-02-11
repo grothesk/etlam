@@ -9,9 +9,9 @@ Requirements
 
 You need the following:
 
-1. A broker for Celery, e.g. Redis
-2. Python
-
+1. Python
+2. A DBMS
+3. A broker for Celery, e.g. Redis
 
 Run etlam
 ---------
