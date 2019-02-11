@@ -22,10 +22,12 @@ Run etlam
 
 .. code-block:: bash
 
-$ celery -A etlam.utils.jobs --loglevel=info -Ofair
+  $ celery -A etlam.utils.jobs --loglevel=info -Ofair
+
 
 3. Run etlam like this
 
 .. code-block:: bash
 
-$ etlam run-etl my_folder
+  $ etlam run-etl my_folder
+
