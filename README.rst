@@ -1,17 +1,17 @@
 etlam
 -----
 
-etlam is a basic structure for ETL projects.
+etlam is a basic structure for ETL projects - it supports parallel processing of files and provides comfortable handling via the command line. 
 
 
 Requirements
 ------------
 
-You need the following:
+You'll need the following:
 
-1. Python
-2. A DBMS
-3. A broker for Celery, e.g. Redis
+0. Python
+1. A DBMS, e.g. PostgreSQL
+2. A broker for Celery, e.g. Redis
 
 Run etlam
 ---------
