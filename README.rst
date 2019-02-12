@@ -31,3 +31,9 @@ Run etlam
 
   $ etlam run-etl my_folder
 
+What if you want to monitor the progress?
+-----------------------------------------
+
+You might use flower_.
+
+.. _flower: https://flower.readthedocs.io/en/latest/
