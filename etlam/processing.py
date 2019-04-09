@@ -13,4 +13,4 @@ def run_etl(folder):
         if os.path.exists(file_path):
             process_file.delay(file_path)
         else:
-            print("Path {} does not exist".format(file_path))
+            print("Path {} does not exist.".format(file_path))
